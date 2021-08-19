@@ -1,5 +1,4 @@
-## Hello!
-Welcome to **Sabyna Maharani**'s Operating Systems Page!:smile:
+## Hello! Welcome to **Sabyna Maharani**'s Operating Systems Page!
 
 [HOME](.) | [LOG] | [RANK] | [REPOSITORY](https://github.com/sabynn/os212)
 
