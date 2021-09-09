@@ -6,4 +6,8 @@ ZCZC W00 15 L04 GitHub Pages related
 ZCZC W00 30 L06 Read slides OS00
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 30 L15 Do reading assignments
-CZC W00 45 L05 Prepare for Week 00 Quiz
+ZCZC W00 45 L05 Prepare for Week 00 Quiz
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 15 L22 Quiz Week 00
+ZCZC W01 500 L11 Do assignment Week 01
+ZCZC W01 100 L64 Help peer group to do assignment Week 01
