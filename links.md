@@ -9,6 +9,7 @@ permalink: /LINKS/
 1. [Computer Basics: Understanding Operating Systems](https://youtu.be/fkGCLIQx1MI)<br>
 Watching this video is a great way to get to know and understand about operating systems.
 This video is full of animations, so this video won't be boring if you prefer animations to simple lecture.
+
 ### Week1
 2. [Essential Linux Commands](https://linuxhint.com/100_essential_linux_commands)<br>
 This article can help us to learn several linux commands. 
