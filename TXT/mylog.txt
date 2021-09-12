@@ -7,8 +7,15 @@ ZCZC W00 30 L06 Read slides OS00
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 30 L15 Do reading assignments
 ZCZC W00 45 L05 Prepare for Week 00 Quiz
-ZCZC W01 15 L31 Install VirtualBox
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 15 L22 Quiz Week 00
-ZCZC W01 500 L11 Do assignment Week 01
+ZCZC W01 45 L11 Download virtual box, PUTTY, WINSCP and do setups
+ZCZC W01 50 L12 Import pre-installed OVA file and run the VirtualBox Debian Guest
+ZCZC W01 30 L13 Do reading assignments
+ZCZC W01 45 L14 Dress up my Virtual Guest
+ZCZC W01 40 L15 Do some SSH related assignments and learn about git cloning
+ZCZC W01 60 L16 Edit index.md, add and edit links.md
+ZCZC W01 25 L17 Update mylog.txt
+ZCZC W01 30 L18 Learn awk, bash, regex, sed
+ZCZC W01 20 L19 Reading assignments
 ZCZC W01 100 L64 Help peer group to do assignment Week 01
