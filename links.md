@@ -17,3 +17,11 @@ It explains the function and example of several linux commands.
 2. [EVERYONE Needs to Learn a Little Bit of AWK!](https://youtu.be/jJ02kEETw70)<br>
 This video is great to get to know about awk. 
 In this video, there are explanation about what awk is, the function of awk, how to use awk, etc. 
+
+### Week2
+1. [Cybersecurity 101](https://youtu.be/sdpxddDzXfE)<br>
+This video will let you get to know the basic meaning of cybersecurity in entertaining and engaging way. 
+This video also explains why cybersecurity is essential.
+2. [Learn C](https://www.learn-c.org/)<br>
+This is a good site for people who want to learn about C with some basic exercises. 
+This site also lets you run the code on the website and see the output of your code.
