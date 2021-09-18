@@ -1,4 +1,4 @@
 # Hello 👋 
 ## Welcome to Sabyna Maharani's Operating Systems Page!
 
-[LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [REPOSITORY](https://github.com/sabynn/os212)
+[LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [RANK](TXT/myrank.txt) | [REPOSITORY](https://github.com/sabynn/os212)
