@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-# LINKS
+# LINKS 🖥
 ## Here are some links that I think are helpful for Operating Systems course
 
 ### Week0
@@ -25,3 +25,12 @@ This video also explains why cybersecurity is essential.
 2. [Learn C](https://www.learn-c.org/)<br>
 This is a good site for people who want to learn about C with some basic exercises. 
 This site also lets you run the code on the website and see the output of your code.
+
+### Week3
+1. [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4)<br>
+This video is the best option for you if you don't like to read or don't like to watch videos with long duration, but you want to get knowledge about Linux directories.
+This video gives a great explanation with a short duration.
+2.[Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)<br>
+This article provides extensive information about Linux filesystem hierarchy standard.
+This is a great article for you to explore Linux FHS if you prefer reading comprehensive text to watching videos.
+  
