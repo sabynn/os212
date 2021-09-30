@@ -27,3 +27,9 @@ ZCZC W03 20 L22 Quiz
 ZCZC W03 100 L02 Zoom meetings related
 ZCZC W03 80 L09 Do assignment week 03
 ZCZC W03 15 L01 Answer forum
+ZCZC W04 20 L22 Quiz
+ZCZC W04 100 L02 Zoom meetings related
+ZCZC W04 50 L09 Do assignment week 04
+ZCZC W04 15 L32 YouTube: study, etc.
+ZCZC W04 30 L06 GSGS links for week 04
+ZCZC W04 20 L01 Answer forum

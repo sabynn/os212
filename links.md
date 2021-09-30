@@ -33,4 +33,14 @@ This video gives a great explanation with a short duration.
 2. [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)<br>
 This article provides extensive information about Linux filesystem hierarchy standard.
 This is a great article for you to explore Linux FHS if you prefer reading comprehensive text to watching videos.
-  
+
+### Week4
+1. [Memory Management in C Programming](https://www.tutorialcup.com/cprogramming/memory-management.htm)<br>
+This article contains a great description of memory management in C programming. 
+This article also gives code examples, pictures, great sections, and a summary that can help us to understand the materials easier.
+2. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+Many people might have a hard time differentiate between little endian and big endian, thus this article can help to get through it.
+This article provides a good explanation with some examples so we can understand it better.
+3. [Introduction to Pointers in C](https://youtu.be/f2i0CnUOniA)<br>
+This video is a big help for us to understand the basic concept of pointer in C. 
+This video gives examples and important aspect of pointers in a simple way.
