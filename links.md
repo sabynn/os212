@@ -44,3 +44,13 @@ This article provides a good explanation with some examples so we can understand
 3. [Introduction to Pointers in C](https://youtu.be/f2i0CnUOniA)<br>
 This video is a big help for us to understand the basic concept of pointer in C. 
 This video gives examples and important aspect of pointers in a simple way.
+
+### Week5
+1. [Virtual Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)<br>
+Learning about virtual memory at first might be hard, but this article can help us to understand it better and easier.
+This article gives some pictures as visualization and several great descriptions in every subsection.
+~The only downside of this article is only the yellow background :'D 
+2. [Thrashing in Operating System](https://www.studytonight.com/operating-system/thrashing-in-operating-system)<br>
+We might know about term trashing in our daily life, but how about trashing in operating system?
+This article can give you great explanation about the concept of trashing in operating system.
+This article explains the causes of trashing, the effects of trashing, and also techniques used to handle the thrashing.
