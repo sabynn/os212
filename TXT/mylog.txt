@@ -36,6 +36,12 @@ ZCZC W04 20 L01 Answer forum
 ZCZC W05 20 L22 Quiz
 ZCZC W05 100 L02 Zoom meetings related
 ZCZC W05 100 L09 Do assignment week 05
-ZCZC W05 30 L04 GSGS links for week 04
+ZCZC W05 30 L04 GSGS links for week 05
 ZCZC W05 20 L32 YouTube: study, etc.
 ZCZC W05 20 L01 Answering OS Forum 
+ZCZC W06 25 L05 Study for quiz
+ZCZC W06 20 L22 Quiz
+ZCZC W06 100 L02 Zoom meetings related
+ZCZC W06 60 L09 Do assignment week 06
+ZCZC W06 15 L32 YouTube: study, etc.
+ZCZC W06 30 L04 GSGS links for week 06

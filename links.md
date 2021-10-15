@@ -54,3 +54,12 @@ This article gives some pictures as visualization and several great descriptions
 We might know about term trashing in our daily life, but how about trashing in operating system?
 This article can give you great explanation about the concept of trashing in operating system.
 This article explains the causes of trashing, the effects of trashing, and also techniques used to handle the thrashing.
+
+### Week6
+1. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+"What is fork() in C? How does fork() work?" We can get the answers to those questions from this article.
+ This article gives a great explanation about fork() with several code examples and pictures that can help us understand more about fork().
+2. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)
+This video is a great choice to watch if you want to learn about thread in Operating System.
+This video explains the meaning of thread in OS, the meaning and difference between Single-threaded process and Multi-threaded process, and also lets you know about the benefits of multi-threaded programming.
+
