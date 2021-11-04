@@ -63,3 +63,11 @@ This article explains the causes of trashing, the effects of trashing, and also 
 This video is a great choice to watch if you want to learn about thread in Operating System.
 This video explains the meaning of thread in OS, the meaning and difference between Single-threaded process and Multi-threaded process, and also lets you know about the benefits of multi-threaded programming.
 
+### Week7
+1. [Introduction to Semaphores](https://www.studytonight.com/operating-system/introduction-to-semaphores)
+This article gives explanation about semaphores in Operating System.
+Semaphore is explained as a variable that can hold only a non-negative Integer value, shared between all the threads, with operations wait and signal. 
+There are also several code examples in this article.
+2. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)
+This article contains a great description of Peterson’s algorithm in process synchronization. 
+This article also gives pictures, code examples, and output of the codes that can help us to understand the materials easier.
