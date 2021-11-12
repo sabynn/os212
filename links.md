@@ -71,3 +71,12 @@ There are also several code examples in this article.
 2. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
 This article contains a great description of Peterson’s algorithm in process synchronization. 
 This article also gives pictures, code examples, and output of the codes that can help us to understand the materials easier.
+
+### Week8
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+This source is the official guidance to make the latest version of LFS. 
+This source provides great table of contents and subsections.
+2. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+This article gives clear explanation about multiple-processor scheduling. 
+This article explains that multiple CPU’s are available in multiple-processor scheduling and hence load sharing becomes possible.
+
