@@ -57,3 +57,9 @@ ZCZC W08 100 L02 Zoom meetings related
 ZCZC W08 650 L09 Do assignment week 08
 ZCZC W08 120 L32 YouTube: study, etc.
 ZCZC W08 50 L06 GSGS links for week 08
+ZCZC W09 30 L05 Study for quiz
+ZCZC W09 20 L22 Quiz
+ZCZC W09 100 L02 Zoom meetings related
+ZCZC W09 300 L09 Do assignment week 09
+ZCZC W09 60 L06 GSGS links for week 09
+ZCZC W09 90 L32 YouTube: study, etc.
